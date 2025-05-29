@@ -1,7 +1,7 @@
 # JUSDT – Pioneering a Decentralized Future
 
 **Version:** 1.0  
-**Authors:** Aryan J (Author), Mathew, Sam (Co-authors)  
+**Authors:** Aryan J (Author), Mathew,Fathima,Sam(Co-authors)  
 **Website:** [https://jusdt.io](https://jusdt.io)  
 **Whitepaper Repository:** [github.com/jusdt-io/jusdt-whitepaper](https://github.com/jusdt-io/jusdt-whitepaper)  
 
